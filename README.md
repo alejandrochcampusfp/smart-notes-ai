@@ -1,5 +1,9 @@
-🚀 **¡Prueba la aplicación en directo!** Puedes acceder a la demo online desplegada en Render haciendo clic aquí: [Smart Notes AI Live Demo](https://smart-notes-ai-j2l7.onrender.com/)
-Estructura del Proyecto
+# 📝 Smart Notes AI
+
+🚀 **¡Prueba la aplicación en directo!** Accede a la demo online en este enlace: [Smart Notes AI Demo](https://smart-notes-ai-j2l7.onrender.com/)
+
+Aplicación Full-Stack desarrollada con FastAPI, SQLite/SQLAlchemy, Docker y potenciada con la API de Groq para la generación inteligente de resúmenes de notas.
+...
 
     ```text
     app-portfolio-ia/
