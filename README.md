@@ -1,4 +1,5 @@
-# Estructura del Proyecto
+🚀 **¡Prueba la aplicación en directo!** Puedes acceder a la demo online desplegada en Render haciendo clic aquí: [Smart Notes AI Live Demo](https://smart-notes-ai-j2l7.onrender.com/)
+Estructura del Proyecto
 
     ```text
     app-portfolio-ia/
