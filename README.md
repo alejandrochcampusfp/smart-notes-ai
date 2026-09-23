@@ -29,7 +29,7 @@ SmartNotes AI - Gestor Inteligente de Notas 🧠✨
 
 
 
-🚀 Características
+## 🚀 Características
     Creación de Notas Inteligentes: Escribe notas y obtén resúmenes automáticos generados por IA al instante.
 
     Integración con Groq (LLMs): Utiliza modelos de lenguaje avanzados para sintetizar textos largos de forma profesional.
@@ -38,7 +38,7 @@ SmartNotes AI - Gestor Inteligente de Notas 🧠✨
 
 
 
-🛠️ Tecnologías Utilizadas
+## 🛠️ Tecnologías Utilizadas
     Backend: Python, FastAPI, Uvicorn, Requests.
 
     Inteligencia Artificial: Groq API (openai/gpt-oss-20b).
@@ -50,7 +50,7 @@ SmartNotes AI - Gestor Inteligente de Notas 🧠✨
 
 
 
-⚙️ Cómo poner en marcha el proyecto
+## ⚙️ Cómo poner en marcha el proyecto
     1. Requisitos previos
     Tener instalado Docker en tu equipo.
 
@@ -73,8 +73,8 @@ SmartNotes AI - Gestor Inteligente de Notas 🧠✨
 
 
 
-🧪 Texto de prueba recomendado
+## 🧪 Texto de prueba recomendado
     Puedes copiar y pegar el siguiente texto en la aplicación para comprobar el funcionamiento del resumen automático por IA:
 
     Título: Proyecto de domótica para casa
-    Contenido: Esta semana tengo que terminar la instalación de los sensores de temperatura y humedad en el salón. También hay que configurar la automatización de las persianas para que bajen automáticamente cuando se haga de noche y revisar por qué la conexión MQTT con el servidor de Home Assistant está dando pequeños cortes intermitentes por la tarde.
+    Contenido: Esta semana tengo que terminar la instalación de los sensores de temperatura y humedad en el salón. También hay que configurar la automatización de las persianas para que bajen automáticamente cuando se haga de noche y revisar por qué la conexión MQTT con el servidor de Home Assistant está dando            pequeños cortes intermitentes por la tarde.
