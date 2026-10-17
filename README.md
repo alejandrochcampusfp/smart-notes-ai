@@ -5,7 +5,7 @@
 Aplicación Full-Stack desarrollada con FastAPI, SQLite/SQLAlchemy, Docker y potenciada con la API de Groq para la generación inteligente de resúmenes de notas.
 ...
 
-    ```text
+    ```
     app-portfolio-ia/
     │
     ├── app/
